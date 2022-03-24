@@ -1,1 +1,2 @@
-This is a Sample Text Document to understand some git commands like 'git add', 'git commit', etc
+This is a Sample Text Document to understand some git commands like 'git add', 'git commit', etc.
+Now, I am modifying this to check Git's Response.
